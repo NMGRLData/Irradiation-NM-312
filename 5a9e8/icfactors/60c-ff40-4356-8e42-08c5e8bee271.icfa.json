@@ -1,7 +1,7 @@
 {
     "AX": {
-        "error": 0.00016407371556086584,
-        "fit": "Bracketing Interpolate",
+        "error": 0.00022356341468947585,
+        "fit": "Weighted Mean",
         "references": [
             {
                 "exclude": "ok",
@@ -70,7 +70,8 @@
             }
         ],
         "reviewed": true,
-        "value": 1.0017742507891039
+        "standard_ratio": 6.600975,
+        "value": 1.0005954786483866
     },
     "CDD": {
         "error": 0.0010890314391632596,
