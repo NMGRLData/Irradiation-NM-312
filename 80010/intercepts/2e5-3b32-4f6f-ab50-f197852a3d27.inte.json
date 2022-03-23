@@ -14,7 +14,7 @@
         "include_baseline_error": false,
         "n": 0,
         "outlier_excluded": null,
-        "reviewed": false,
+        "reviewed": true,
         "user_excluded": null,
         "value": 0.016762833337483178
     },
@@ -33,7 +33,7 @@
         "include_baseline_error": false,
         "n": 0,
         "outlier_excluded": null,
-        "reviewed": false,
+        "reviewed": true,
         "user_excluded": null,
         "value": 1.1354191035706707
     },
@@ -52,7 +52,7 @@
         "include_baseline_error": false,
         "n": 0,
         "outlier_excluded": null,
-        "reviewed": false,
+        "reviewed": true,
         "user_excluded": null,
         "value": 1.523562754564395
     },
@@ -71,7 +71,7 @@
         "include_baseline_error": false,
         "n": 0,
         "outlier_excluded": null,
-        "reviewed": false,
+        "reviewed": true,
         "user_excluded": null,
         "value": 123.69140298947173
     },
@@ -90,7 +90,7 @@
         "include_baseline_error": false,
         "n": 0,
         "outlier_excluded": null,
-        "reviewed": false,
+        "reviewed": true,
         "user_excluded": null,
         "value": 674.0234505264643
     },
